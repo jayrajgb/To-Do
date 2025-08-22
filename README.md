@@ -8,8 +8,6 @@
 
 #### 🖼️ **Snapshot**
 
----
-
 ![Snapshot](/assets/project4.png)
 
 ---
@@ -33,8 +31,6 @@
 
 #### ⚡ **Quick Setup**
 
----
-
 1. #### **Clone**
 
 ```bash
@@ -43,3 +39,5 @@ cd To-Do
 ```
 
 2. #### **Run Live Server Locally**
+
+---
